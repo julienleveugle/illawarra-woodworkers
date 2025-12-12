@@ -1,0 +1,37 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Gem files
+Gemfile.lock
+*.gem
+
+# Ruby version files
+.ruby-version
+.ruby-gemset
+
+# macOS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if you add any JS tooling later)
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
+# Environment files
+.env
+.env.local
+
+# Stock images folder (originals)
+stock/

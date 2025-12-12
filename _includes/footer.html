@@ -1,0 +1,39 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>
+                    <strong>Email:</strong>
+                    <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+                </p>
+                <p>
+                    <strong>Postal Address:</strong><br>
+                    {{ site.contact.postal }}
+                </p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Workshop Times</h3>
+                <p>
+                    <strong>{{ site.workshop.days }}</strong><br>
+                    {{ site.workshop.time }}
+                </p>
+                <p class="note">{{ site.workshop.closed }}</p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Monthly Meetings</h3>
+                <p>
+                    <strong>{{ site.meetings.day }}</strong><br>
+                    {{ site.meetings.time }}
+                </p>
+                <p class="note">{{ site.meetings.exception }}</p>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+        </div>
+    </div>
+</footer>

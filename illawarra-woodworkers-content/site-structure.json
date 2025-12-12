@@ -1,0 +1,56 @@
+{
+  "site_name": "Illawarra Woodworkers Group",
+  "site_url": "https://illawarrawoodworkers.org.au/",
+  "copyright": "© 2025 Illawarra Woodworkers Group",
+  "navigation": [
+    {
+      "title": "Home",
+      "url": "/index.php",
+      "slug": "home"
+    },
+    {
+      "title": "About Us",
+      "url": "/index.php/about-us",
+      "slug": "about-us"
+    },
+    {
+      "title": "Events Calendar",
+      "url": "/index.php/events-calendar/month.calendar/2025/10/20/-",
+      "slug": "events-calendar"
+    },
+    {
+      "title": "Location",
+      "url": "/index.php/location",
+      "slug": "location"
+    },
+    {
+      "title": "Woodwork for Sale",
+      "url": "/index.php/woodwork-for-sale",
+      "slug": "woodwork-for-sale"
+    },
+    {
+      "title": "Newsletters",
+      "url": "/index.php/newsletters",
+      "slug": "newsletters"
+    },
+    {
+      "title": "Web Links",
+      "url": "/index.php/web-links",
+      "slug": "web-links"
+    }
+  ],
+  "contact": {
+    "email": "info@illawarrawoodworkers.org.au",
+    "postal_address": "PO Box 121, CORRIMAL NSW 2518"
+  },
+  "location": {
+    "address": "Fairy Meadow Primary School, Balgownie Road, Fairy Meadow",
+    "coordinates": {
+      "latitude": "-34.390136",
+      "longitude": "150.892323"
+    }
+  },
+  "branding": {
+    "logo": "https://illawarrawoodworkers.org.au/images/banners/IWG Web Logo 706x170 R3 Final.png"
+  }
+}

@@ -1,0 +1,83 @@
+# Site settings
+title: Illawarra Woodworkers Group
+email: info@illawarrawoodworkers.org.au
+description: >-
+  A non profit volunteer group located in the Illawarra region of New South Wales
+  promoting fine craftsmanship and traditional woodworking skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - illawarra-woodworkers-content/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About Us
+    url: /about-us
+  - title: Location
+    url: /location
+  - title: Woodwork for Sale
+    url: /woodwork-for-sale
+  - title: Newsletters
+    url: /newsletters
+  - title: Web Links
+    url: /web-links
+  - title: Donations
+    url: /donations
+
+# Contact info
+contact:
+  email: info@illawarrawoodworkers.org.au
+  postal: PO Box 121, CORRIMAL NSW 2518
+
+# Location
+location:
+  address: Fairy Meadow Primary School, Balgownie Road, Fairy Meadow
+  latitude: -34.390136
+  longitude: 150.892323
+
+# Workshop times
+workshop:
+  days: Thursday and Saturday
+  time: 8:00 AM to Midday
+  closed: Late December to end of January
+
+# Meetings
+meetings:
+  time: 9:00 AM
+  day: Second Saturday of each month
+  exception: No meeting in January
+
+# Membership
+membership:
+  fee: $25
+  visitor_limit: 3 meetings
