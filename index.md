@@ -1,31 +1,62 @@
 ---
 layout: home
-title: Welcome to Illawarra Woodworkers Group
+title: Illawarra Woodworkers Group
 permalink: /
 ---
 
-## Introduction
+<section id="intro" class="home-intro">
+    <div class="container">
+        <h2>Welcome to Our Workshop</h2>
+        <p>The Illawarra Woodworkers Group is a non-profit volunteer community dedicated to promoting fine craftsmanship and traditional woodworking skills in the Illawarra region of New South Wales.</p>
+        <a href="{{ '/about-us' | relative_url }}" class="btn btn--outline-dark">Learn More About Us</a>
+    </div>
+</section>
 
-**The Illawarra Woodworkers Group** is a non profit volunteer group located in the Illawarra region of New South Wales. This website is for anybody who is interested in woodworking for enjoyment as much as it is for the members and it contains a collection of past newsletters, an events calendar and general information on our craft.
+<section class="section section--white">
+    <div class="container">
+        <div class="section-header">
+            <h2>Join Our Community</h2>
+            <p>Whether you're a seasoned craftsman or just starting out, our workshop is a place to learn, share, and create.</p>
+        </div>
+        <div class="info-cards">
+            <div class="info-card">
+                <h3>Workshop Hours</h3>
+                <p>Join us at the workshop to work on projects, learn new skills, or simply enjoy the company of fellow woodworkers.</p>
+                <p class="card-detail">Thursday & Saturday<br>8:00 AM - Midday</p>
+            </div>
+            <div class="info-card">
+                <h3>Monthly Meetings</h3>
+                <p>Our regular meetings are a great opportunity to connect, share ideas, and stay updated on club activities.</p>
+                <p class="card-detail">Second Saturday of each month<br>9:00 AM</p>
+            </div>
+            <div class="info-card">
+                <h3>Membership</h3>
+                <p>Visitors are welcome to attend up to three meetings before joining. Annual membership is just $25.</p>
+                <p class="card-detail"><a href="{{ '/about-us' | relative_url }}">Learn more →</a></p>
+            </div>
+        </div>
+    </div>
+</section>
 
-Use the menu above to navigate around the site. The location of the workshop and directions to find us are shown on the [Location](/location) page, we have details of the exhibitions and club events and a wide selection of useful [Web Links](/web-links) for woodworkers.
+<section class="cta-section">
+    <div class="container">
+        <h2>Giving Back to Our Community</h2>
+        <p>For many years, we've been crafting toys and wooden items that are donated to local charities. Our members take pride in using their skills to bring joy to others.</p>
+        <a href="{{ '/donations' | relative_url }}" class="btn btn--outline-dark">Our Charity Work</a>
+    </div>
+</section>
 
-As a non-profit volunteer group we support ourselves by selling woodcraft made by the members as shown on our [Woodwork for Sale](/woodwork-for-sale) page. We will also make custom items for individuals on request if we have the resources and skills to complete the requested commission. If you need something a little unusual made please send us an email with as much detail as possible and photos.
-
-The Illawarra Woodworkers have for many years also made toys that are donated to [local charities](/donations) to either use directly or in their own fund raising activities.
-
-## Latest News and Events
-
-The workshop is open on **Thursday and Saturday from 8am to Midday** each week. We do not open the workshop from late December to the end of January.
-
-The workshop times are a great opportunity to meet other members, talk about our woodwork and many other topics with morning tea being a good excuse to get together for a yarn.
-
-**Monthly meetings** are held at 9:00am on the Second Saturday of each month with exception of January. Hope to see you all there.
-
-Stay Safe and well.
-
-## Bendigo Bank Support
-
-We have been very fortunate to receive support from the Shellharbour & Oak Flats Branch of the Bendigo Community Bank over the last couple of years in the form of a grant to cover our cost of our workshop consumables supplies. This generous support has allowed us to have on hand a ready supply of glue, nails, screws, sandpaper and a few bandsaw blades. This will help our workshop activities enormously.
-
-This support is very much appreciated by the members and our sincere thanks go to all the staff at Bendigo Bank and in particular the staff at Shellharbour & Oak Flats.
+<section class="section section--white">
+    <div class="container">
+        <div class="section-header">
+            <h2>Visit Our Workshop</h2>
+            <p>Located at Fairy Meadow Primary School, our workshop is equipped with a variety of tools and machinery for all your woodworking projects.</p>
+        </div>
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.7!2d150.892323!3d-34.390136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDIzJzI0LjUiUyAxNTDCsDUzJzMyLjQiRQ!5e0!3m2!1sen!2sau!4v1234567890" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="text-center">
+            <a href="{{ '/location' | relative_url }}" class="btn btn--outline-dark">Get Directions</a>
+        </div>
+    </div>
+</section>

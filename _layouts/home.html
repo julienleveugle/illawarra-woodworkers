@@ -1,22 +1,29 @@
 ---
 layout: default
 ---
-<div class="hero-section">
-    <div class="hero-image">
+<section class="hero">
+    <div class="hero-background">
         <img src="{{ '/assets/images/wood-shavings.jpg' | relative_url }}"
-             alt="Woodworking tools and wood shavings"
-             loading="lazy">
-        <div class="hero-overlay">
-            <div class="container">
-                <h1 class="hero-title">{{ page.title }}</h1>
-                <p class="hero-subtitle">Promoting fine craftsmanship and traditional woodworking skills since 1988</p>
-            </div>
+             alt="Woodworking craftsmanship"
+             loading="eager">
+    </div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <p class="hero-subtitle">Traditional Woodworking in the Illawarra</p>
+        <h1 class="hero-title">Crafting with Passion</h1>
+        <p class="hero-description">A community of woodworkers sharing skills, knowledge, and the love of working with timber since 1988.</p>
+        <div class="hero-cta">
+            <a href="{{ '/about-us' | relative_url }}" class="btn btn--outline">Discover More</a>
         </div>
     </div>
-</div>
-
-<article class="page-content">
-    <div class="content">
-        {{ content }}
+    <div class="scroll-indicator">
+        <a href="#intro">
+            <span>Scroll</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+            </svg>
+        </a>
     </div>
-</article>
+</section>
+
+{{ content }}

@@ -1,39 +1,29 @@
 <footer class="site-footer">
-    <div class="container">
-        <div class="footer-content">
-            <div class="footer-section">
-                <h3>Contact Us</h3>
-                <p>
-                    <strong>Email:</strong>
-                    <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
-                </p>
-                <p>
-                    <strong>Postal Address:</strong><br>
-                    {{ site.contact.postal }}
-                </p>
-            </div>
+    <div class="footer-inner">
+        <div class="footer-logo">Illawarra Woodworkers</div>
 
-            <div class="footer-section">
-                <h3>Workshop Times</h3>
-                <p>
-                    <strong>{{ site.workshop.days }}</strong><br>
-                    {{ site.workshop.time }}
-                </p>
-                <p class="note">{{ site.workshop.closed }}</p>
-            </div>
+        <nav class="footer-nav">
+            {% for item in site.navigation %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endfor %}
+        </nav>
 
-            <div class="footer-section">
-                <h3>Monthly Meetings</h3>
-                <p>
-                    <strong>{{ site.meetings.day }}</strong><br>
-                    {{ site.meetings.time }}
-                </p>
-                <p class="note">{{ site.meetings.exception }}</p>
-            </div>
+        <div class="footer-info">
+            <p><strong>Workshop:</strong> {{ site.workshop.days }}, {{ site.workshop.time }}</p>
+            <p>{{ site.location.address }}</p>
+            <p><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></p>
+        </div>
+
+        <div class="newsletter">
+            <p class="newsletter-title">Subscribe to our newsletter</p>
+            <form class="newsletter-form" action="https://formspree.io/f/placeholder" method="POST">
+                <input type="email" name="email" placeholder="Enter your email" required>
+                <button type="submit">Join</button>
+            </form>
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+            <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
         </div>
     </div>
 </footer>
