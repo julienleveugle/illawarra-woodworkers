@@ -4,8 +4,8 @@ email: info@illawarrawoodworkers.org.au
 description: >-
   A non profit volunteer group located in the Illawarra region of New South Wales
   promoting fine craftsmanship and traditional woodworking skills.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/illawarra-woodworkers" # the subpath of your site, e.g. /blog
+url: "https://julienleveugle.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
