@@ -25,18 +25,21 @@ The group supports itself with fund raising at shows, craft fairs and exhibition
 
 The Annual General meeting is held following the April general meeting. The committee positions are vacated and refilled each year by nomination and vote at the AGM.
 
-## 2023 Committee Members
+## 2026 Committee Members
 
-- **President:** Mark Beaver
-- **Vice President:** Jason Hedley
-- **Secretary & Maintenance co-ordinator:** Pat Keefe
-- **Treasurer & Public Officer:** William Perry
-- **Asst Treasurer:** Julien Leveugle
-- **Meetings & Club Sales Coordinator:** Horatio Rodriguez
+- **President:** David Lipscombe
+- **Vice President:** Horacio Rodrigues
+- **Secretary:** Michael Cappelin
+- **Treasurer:** Darinka Radinovic
+- **Assistant Treasurer:** Julien Leveugle
+- **Public Officer:** William Perry
+- **Coordinator (Organising):** Rick Funnell
+- **Coordinator (Maintenance):** Pat Keefe
+- **Coordinator (Workshop):** Jason Hedley
 - **Club Sales Coordinator:** Darinka Radinovic
-- **Workshop Coordinator:** Mark Beaver
-- **Newsletter:** Virginie Schmelitschek / Julien Leveugle
 - **Librarian:** Darinka Radinovic
+- **Newsletter Editor:** Virginie Schmelitschek / Julien Leveugle
+- **Website Coordinator:** Julien Leveugle
 
 The Illawarra Woodworkers Group Inc is incorporated under the NSW Associations Incorporation Act 2009 and governed by a constitution as adopted by the group members.
 
