@@ -6,25 +6,25 @@ permalink: /newsletters
 
 The current and past newsletters of the Illawarra Woodworkers Group are available from the links below.
 
-Recent newsletters are in Word format (.docx). Older newsletters are in PDF format.
+The files are in PDF format.
 
 ## Recent Newsletters
 
 ### 2026
-- [January]({{ site.baseurl }}/assets/newsletters/202601-january.docx)
+- [January]({{ site.baseurl }}/assets/newsletters/202601-january.pdf)
 
 ### 2025
-- [February]({{ site.baseurl }}/assets/newsletters/202502-february.docx)
-- [April]({{ site.baseurl }}/assets/newsletters/202504-april.docx)
-- [June/July]({{ site.baseurl }}/assets/newsletters/202506-june-july.docx)
-- [October]({{ site.baseurl }}/assets/newsletters/202510-october.docx)
+- [February]({{ site.baseurl }}/assets/newsletters/202502-february.pdf)
+- [April]({{ site.baseurl }}/assets/newsletters/202504-april.pdf)
+- [June/July]({{ site.baseurl }}/assets/newsletters/202506-june-july.pdf)
+- [October]({{ site.baseurl }}/assets/newsletters/202510-october.pdf)
 
 ### 2024
 - [January]({{ site.baseurl }}/assets/newsletters/202401-january.pdf)
 - [April]({{ site.baseurl }}/assets/newsletters/202404-april.pdf)
-- [July]({{ site.baseurl }}/assets/newsletters/202407-july.docx)
-- [September]({{ site.baseurl }}/assets/newsletters/202409-september.docx)
-- [December]({{ site.baseurl }}/assets/newsletters/202412-december.docx)
+- [July]({{ site.baseurl }}/assets/newsletters/202407-july.pdf)
+- [September]({{ site.baseurl }}/assets/newsletters/202409-september.pdf)
+- [December]({{ site.baseurl }}/assets/newsletters/202412-december.pdf)
 
 ### 2023
 - [March]({{ site.baseurl }}/assets/newsletters/202303-march.pdf)
