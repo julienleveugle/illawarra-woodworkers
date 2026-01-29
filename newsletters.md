@@ -6,13 +6,25 @@ permalink: /newsletters
 
 The current and past newsletters of the Illawarra Woodworkers Group are available from the links below.
 
-The files are in PDF format and you will need suitable programs such as Adobe Reader to view them.
+Recent newsletters are in Word format (.docx). Older newsletters are in PDF format.
 
 ## Recent Newsletters
+
+### 2026
+- [January]({{ site.baseurl }}/assets/newsletters/202601-january.docx)
+
+### 2025
+- [February]({{ site.baseurl }}/assets/newsletters/202502-february.docx)
+- [April]({{ site.baseurl }}/assets/newsletters/202504-april.docx)
+- [June/July]({{ site.baseurl }}/assets/newsletters/202506-june-july.docx)
+- [October]({{ site.baseurl }}/assets/newsletters/202510-october.docx)
 
 ### 2024
 - [January](https://illawarrawoodworkers.org.au/images/stories/documents/members/newsletter/202401%20January.pdf)
 - [April](https://illawarrawoodworkers.org.au/images/stories/documents/members/newsletter/202404%20April.pdf)
+- [July]({{ site.baseurl }}/assets/newsletters/202407-july.docx)
+- [September]({{ site.baseurl }}/assets/newsletters/202409-september.docx)
+- [December]({{ site.baseurl }}/assets/newsletters/202412-december.docx)
 
 ### 2023
 - [March](https://illawarrawoodworkers.org.au/images/stories/documents/members/newsletter/202303%20March.pdf)

@@ -45,8 +45,6 @@ navigation:
     url: /about-us
   - title: Location
     url: /location
-  - title: Woodwork for Sale
-    url: /woodwork-for-sale
   - title: Newsletters
     url: /newsletters
   - title: Web Links
@@ -79,5 +77,5 @@ meetings:
 
 # Membership
 membership:
-  fee: $25
+  fee: $50
   visitor_limit: 3 meetings

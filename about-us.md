@@ -15,9 +15,9 @@ We also make and donate toys to local charities for their use or for their own f
 
 The Group has workshop mornings on Saturday and a General meeting once a month at the workshop in Fairy Meadow, see the [Location](/location) page for directions and a map.
 
-Workshop sessions are held most Saturday mornings during the year (starting from 8:30am) which are a great venue to learn new skills or get advice from other members. Toys are made for donation to various local charities as well as some items which are made to be sold to raise funds for the group. See the [Woodwork for Sale](/woodwork-for-sale) page for more details.
+Workshop sessions are held most Saturday mornings during the year (starting from 8:30am) which are a great venue to learn new skills or get advice from other members. Toys are made for donation to various local charities as well as some items which are made to be sold to raise funds for the group.
 
-On the second Saturday of each month the workshop session is shortened for the General Meeting which starts about 9:00am. Visitors are welcome and encouraged to attend up to 3 monthly meetings, after this if you wish to continue attending we ask you to join the group. The annual membership fee is **$25 per person**.
+On the second Saturday of each month the workshop session is shortened for the General Meeting which starts about 9:00am. Visitors are welcome and encouraged to attend up to 3 monthly meetings, after this if you wish to continue attending we ask you to join the group. The annual membership fee is **$50 per person**.
 
 A newsletter is generally published every 2 months with information for members and little bits and pieces that the editor finds in his travels. Copies of past newsletters are also available from the [Newsletters](/newsletters) page.
 
