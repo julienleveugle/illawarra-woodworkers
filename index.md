@@ -31,7 +31,7 @@ permalink: /
             </div>
             <div class="info-card">
                 <h3>Membership</h3>
-                <p>Visitors are welcome to attend up to three meetings before joining. Annual membership is just $25.</p>
+                <p>Visitors are welcome to attend up to three meetings before joining. Annual membership is just $50.</p>
                 <p class="card-detail"><a href="{{ '/about-us' | relative_url }}">Learn more →</a></p>
             </div>
         </div>

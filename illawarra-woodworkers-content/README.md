@@ -77,7 +77,7 @@ illawarra-woodworkers-content/
 - **Exception:** No meeting in January
 
 ### Membership
-- **Annual Fee:** $25 per person
+- **Annual Fee:** $50 per person
 - **Visitor Policy:** Welcome for up to 3 meetings before joining
 
 ## Assets to Download
